@@ -1,4 +1,4 @@
-# MarketPulse-CLI 📈
+# StockMarketPulse-CLI 
 
 A lightweight Python tool to track daily performance of major Indian stocks directly from the terminal.
 
@@ -13,4 +13,5 @@ A lightweight Python tool to track daily performance of major Indian stocks dire
 
 ## How to Run
 1. Install dependencies: `pip install yfinance`
+
 2. Run the script: `python main.py`
