@@ -15,3 +15,4 @@ A lightweight Python tool to track daily performance of major Indian stocks dire
 1. Install dependencies: `pip install yfinance`
 
 2. Run the script: `python main.py`
+
